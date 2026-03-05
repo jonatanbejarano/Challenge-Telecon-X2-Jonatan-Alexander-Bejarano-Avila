@@ -13,7 +13,6 @@ Identificar los **factores clave** que llevan a los clientes a cancelar su servi
 |---|---|
 | [telecomx_parte2.ipynb](cci:7://file:///c:/Users/jonat/OneDrive/Desktop/reloj/telecomx_parte2.ipynb:0:0-0:0) | Notebook principal con el análisis completo (EDA, visualizaciones y modelado) |
 | [datos_tratados.csv](cci:7://file:///c:/Users/jonat/OneDrive/Desktop/reloj/datos_tratados.csv:0:0-0:0) | Dataset limpio con 7,043 clientes y 21 variables |
-| `conclusiones_telecomx.md` | Resumen ejecutivo de hallazgos y recomendaciones |
 
 ## 🛠️ Tecnologías Utilizadas
 
